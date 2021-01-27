@@ -1,0 +1,3 @@
+include ':Divisor'
+include ':app'
+rootProject.name = "JustMe"
